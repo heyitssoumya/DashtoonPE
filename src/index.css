@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: rgba(198, 254, 227, 0.54);
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXp1qsX8kgVuHeqD9JzY6PIzjBoi3i67YXAp3cGFfJhb1EfK8WPhyJ44qic1WuWQC0pLg&usqp=CAU');
+    background-size: contain; /* Adjust as needed */
+    background-position: center; 
+    /* Adjust as needed */
+}
