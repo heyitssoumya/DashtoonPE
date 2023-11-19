@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DashtoonPE/static/css/main.15519873.css",
+    "main.js": "/DashtoonPE/static/js/main.d8ee6357.js",
+    "static/js/787.38897508.chunk.js": "/DashtoonPE/static/js/787.38897508.chunk.js",
+    "static/media/filler-image.jpg": "/DashtoonPE/static/media/filler-image.b32694bc8a00380a0241.jpg",
+    "index.html": "/DashtoonPE/index.html",
+    "main.15519873.css.map": "/DashtoonPE/static/css/main.15519873.css.map",
+    "main.d8ee6357.js.map": "/DashtoonPE/static/js/main.d8ee6357.js.map",
+    "787.38897508.chunk.js.map": "/DashtoonPE/static/js/787.38897508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15519873.css",
+    "static/js/main.d8ee6357.js"
+  ]
+}
